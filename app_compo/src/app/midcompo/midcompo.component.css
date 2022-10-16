@@ -1,0 +1,46 @@
+body{
+    border:5px solid grey;
+    width:400px;
+    height:650px;
+    overflow:hidden;
+}
+
+
+
+.kore{
+    height:70px;
+    width:140px;
+}
+
+.kore-img{
+    height:60px;
+    width:120px;
+    padding-left:10px;
+}
+
+.desc-head{
+    margin:0px;
+    color:orange;
+    font-size:60px;
+    
+}
+
+.agile{
+    padding-left:15px;
+    width:60%;
+    
+}
+
+.fl-img{
+    height:300px;
+    width:300px;
+    border-radius:50%;
+    /* float:right; */
+    margin-left:150px;
+
+    
+}
+
+.b1{
+    text-align:center;
+}
